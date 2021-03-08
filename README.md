@@ -5,4 +5,4 @@
 
 
 ## UX Journal
-[a relative link] (UX_Journal_1.md)
+[My First UX Journal] (./UX_Journal_1.md)
